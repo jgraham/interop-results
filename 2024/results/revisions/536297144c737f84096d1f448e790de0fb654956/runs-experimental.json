@@ -1,0 +1,67 @@
+[
+  {
+    "id": 5111410883559424,
+    "browser_name": "chrome",
+    "browser_version": "126.0.6458.0",
+    "os_name": "linux",
+    "os_version": "20.04",
+    "revision": "536297144c",
+    "full_revision_hash": "536297144c737f84096d1f448e790de0fb654956",
+    "results_url": "https://storage.googleapis.com/wptd/536297144c737f84096d1f448e790de0fb654956/chrome-126.0.6458.0-linux-20.04-2a36ccbeff-summary_v2.json.gz",
+    "created_at": "2024-05-05T06:25:50.529851+00:00",
+    "time_start": "2024-05-05T03:24:00.780000+00:00",
+    "time_end": "2024-05-05T05:43:47.174000+00:00",
+    "raw_results_url": "https://storage.googleapis.com/wptd-results/536297144c737f84096d1f448e790de0fb654956/chrome-126.0.6458.0-linux-20.04-2a36ccbeff/report.json",
+    "labels": [
+      "canary",
+      "chrome",
+      "experimental",
+      "master",
+      "taskcluster",
+      "user:chromium-wpt-export-bot"
+    ]
+  },
+  {
+    "id": 5166613024473088,
+    "browser_name": "firefox",
+    "browser_version": "127.0a1",
+    "os_name": "linux",
+    "os_version": "20.04",
+    "revision": "536297144c",
+    "full_revision_hash": "536297144c737f84096d1f448e790de0fb654956",
+    "results_url": "https://storage.googleapis.com/wptd/536297144c737f84096d1f448e790de0fb654956/firefox-127.0a1-linux-20.04-8bc7d80eb0-summary_v2.json.gz",
+    "created_at": "2024-05-05T06:26:11.692362+00:00",
+    "time_start": "2024-05-05T03:25:03.065000+00:00",
+    "time_end": "2024-05-05T04:24:12.884000+00:00",
+    "raw_results_url": "https://storage.googleapis.com/wptd-results/536297144c737f84096d1f448e790de0fb654956/firefox-127.0a1-linux-20.04-8bc7d80eb0/report.json",
+    "labels": [
+      "experimental",
+      "firefox",
+      "master",
+      "nightly",
+      "taskcluster",
+      "user:chromium-wpt-export-bot"
+    ]
+  },
+  {
+    "id": 5162230731767808,
+    "browser_name": "safari",
+    "browser_version": "193 preview",
+    "os_name": "mac",
+    "os_version": "13.6",
+    "revision": "536297144c",
+    "full_revision_hash": "536297144c737f84096d1f448e790de0fb654956",
+    "results_url": "https://storage.googleapis.com/wptd/536297144c737f84096d1f448e790de0fb654956/safari-193_preview-mac-13.6-0ed512c391-summary_v2.json.gz",
+    "created_at": "2024-05-05T08:49:40.341011+00:00",
+    "time_start": "2024-05-05T06:32:12.173000+00:00",
+    "time_end": "2024-05-05T08:05:47.794000+00:00",
+    "raw_results_url": "https://storage.googleapis.com/wptd-results/536297144c737f84096d1f448e790de0fb654956/safari-193_preview-mac-13.6-0ed512c391/report.json",
+    "labels": [
+      "azure",
+      "experimental",
+      "master",
+      "preview",
+      "safari"
+    ]
+  }
+]
