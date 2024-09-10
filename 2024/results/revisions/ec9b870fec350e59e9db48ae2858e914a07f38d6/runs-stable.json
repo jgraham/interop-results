@@ -40,5 +40,25 @@
       "taskcluster",
       "user:servo-wpt-sync"
     ]
+  },
+  {
+    "id": 5185494753476608,
+    "browser_name": "safari",
+    "browser_version": "17.6 (19618.3.11.11.5)",
+    "os_name": "mac",
+    "os_version": "14.6",
+    "revision": "ec9b870fec",
+    "full_revision_hash": "ec9b870fec350e59e9db48ae2858e914a07f38d6",
+    "results_url": "https://storage.googleapis.com/wptd/ec9b870fec350e59e9db48ae2858e914a07f38d6/safari-17.6__19618.3.11.11.5_-mac-14.6-b4703494b9-summary_v2.json.gz",
+    "created_at": "2024-09-09T21:05:01.843000+00:00",
+    "time_start": "2024-09-08T01:56:29.102000+00:00",
+    "time_end": "2024-09-09T20:18:58.244000+00:00",
+    "raw_results_url": "https://storage.googleapis.com/wptd-results/ec9b870fec350e59e9db48ae2858e914a07f38d6/safari-17.6__19618.3.11.11.5_-mac-14.6-b4703494b9/report.json",
+    "labels": [
+      "azure",
+      "master",
+      "safari",
+      "stable"
+    ]
   }
 ]
