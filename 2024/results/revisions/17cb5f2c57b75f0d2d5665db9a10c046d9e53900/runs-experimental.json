@@ -1,0 +1,45 @@
+[
+  {
+    "id": 5205878584377344,
+    "browser_name": "chrome",
+    "browser_version": "132.0.6789.0",
+    "os_name": "linux",
+    "os_version": "20.04",
+    "revision": "17cb5f2c57",
+    "full_revision_hash": "17cb5f2c57b75f0d2d5665db9a10c046d9e53900",
+    "results_url": "https://storage.googleapis.com/wptd/17cb5f2c57b75f0d2d5665db9a10c046d9e53900/chrome-132.0.6789.0-linux-20.04-4730932705-summary_v2.json.gz",
+    "created_at": "2024-10-21T20:32:27.619953+00:00",
+    "time_start": "2024-10-21T18:15:02.913000+00:00",
+    "time_end": "2024-10-21T19:47:51.744000+00:00",
+    "raw_results_url": "https://storage.googleapis.com/wptd-results/17cb5f2c57b75f0d2d5665db9a10c046d9e53900/chrome-132.0.6789.0-linux-20.04-4730932705/report.json",
+    "labels": [
+      "canary",
+      "chrome",
+      "experimental",
+      "master",
+      "taskcluster",
+      "user:ptomato"
+    ]
+  },
+  {
+    "id": 5078038345940992,
+    "browser_name": "safari",
+    "browser_version": "205 preview",
+    "os_name": "mac",
+    "os_version": "15.0",
+    "revision": "17cb5f2c57",
+    "full_revision_hash": "17cb5f2c57b75f0d2d5665db9a10c046d9e53900",
+    "results_url": "https://storage.googleapis.com/wptd/17cb5f2c57b75f0d2d5665db9a10c046d9e53900/safari-205_preview-mac-15.0-4da516f7cd-summary_v2.json.gz",
+    "created_at": "2024-10-21T21:39:44.641120+00:00",
+    "time_start": "2024-10-21T18:36:05.896000+00:00",
+    "time_end": "2024-10-21T20:56:44.304000+00:00",
+    "raw_results_url": "https://storage.googleapis.com/wptd-results/17cb5f2c57b75f0d2d5665db9a10c046d9e53900/safari-205_preview-mac-15.0-4da516f7cd/report.json",
+    "labels": [
+      "experimental",
+      "github-actions",
+      "master",
+      "preview",
+      "safari"
+    ]
+  }
+]
