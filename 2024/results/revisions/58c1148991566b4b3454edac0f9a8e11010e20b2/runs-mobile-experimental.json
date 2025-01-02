@@ -146,5 +146,26 @@
       "taskcluster",
       "user:moz-wptsync-bot"
     ]
+  },
+  {
+    "id": 5179560515862528,
+    "browser_name": "chrome_android",
+    "browser_version": "133.0.6933.0",
+    "os_name": "android",
+    "os_version": "9",
+    "revision": "58c1148991",
+    "full_revision_hash": "58c1148991566b4b3454edac0f9a8e11010e20b2",
+    "results_url": "https://storage.googleapis.com/wptd/58c1148991566b4b3454edac0f9a8e11010e20b2/chrome_android-133.0.6933.0-android-9-7f677e93ce-summary_v2.json.gz",
+    "created_at": "2025-01-02T02:02:26.362089+00:00",
+    "time_start": "2025-01-01T21:24:01.515000+00:00",
+    "time_end": "2025-01-01T23:32:32.932000+00:00",
+    "raw_results_url": "https://storage.googleapis.com/wptd-results/58c1148991566b4b3454edac0f9a8e11010e20b2/chrome_android-133.0.6933.0-android-9-7f677e93ce/report.json",
+    "labels": [
+      "chrome_android",
+      "chromium-ci-results-uploader",
+      "dev",
+      "experimental",
+      "master"
+    ]
   }
 ]
