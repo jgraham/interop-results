@@ -1,0 +1,45 @@
+[
+  {
+    "id": 5081783286890496,
+    "browser_name": "chrome_android",
+    "browser_version": "135.0.7020.0",
+    "os_name": "android",
+    "os_version": "9",
+    "revision": "4ea48fec4b",
+    "full_revision_hash": "4ea48fec4b3c96437838c2fd5c4436d0a1b7a547",
+    "results_url": "https://storage.googleapis.com/wptd/4ea48fec4b3c96437838c2fd5c4436d0a1b7a547/chrome_android-135.0.7020.0-android-9-4e8cddef53-summary_v2.json.gz",
+    "created_at": "2025-02-17T09:25:35.640646+00:00",
+    "time_start": "2025-02-17T04:40:15.614000+00:00",
+    "time_end": "2025-02-17T06:55:02.235000+00:00",
+    "raw_results_url": "https://storage.googleapis.com/wptd-results/4ea48fec4b3c96437838c2fd5c4436d0a1b7a547/chrome_android-135.0.7020.0-android-9-4e8cddef53/report.json",
+    "labels": [
+      "chrome_android",
+      "chromium-ci-results-uploader",
+      "dev",
+      "experimental",
+      "master"
+    ]
+  },
+  {
+    "id": 5173810410291200,
+    "browser_name": "firefox_android",
+    "browser_version": "137.0a1-nightly",
+    "os_name": "android",
+    "os_version": "7.0",
+    "revision": "4ea48fec4b",
+    "full_revision_hash": "4ea48fec4b3c96437838c2fd5c4436d0a1b7a547",
+    "results_url": "https://storage.googleapis.com/wptd/4ea48fec4b3c96437838c2fd5c4436d0a1b7a547/firefox_android-137.0a1-nightly-android-7.0-040db0dd75-summary_v2.json.gz",
+    "created_at": "2025-02-17T05:54:20.455383+00:00",
+    "time_start": "2025-02-17T02:40:28.879000+00:00",
+    "time_end": "2025-02-17T05:07:01.503000+00:00",
+    "raw_results_url": "https://storage.googleapis.com/wptd-results/4ea48fec4b3c96437838c2fd5c4436d0a1b7a547/firefox_android-137.0a1-nightly-android-7.0-040db0dd75/report.json",
+    "labels": [
+      "experimental",
+      "firefox_android",
+      "master",
+      "nightly",
+      "taskcluster",
+      "user:servo-wpt-sync"
+    ]
+  }
+]
