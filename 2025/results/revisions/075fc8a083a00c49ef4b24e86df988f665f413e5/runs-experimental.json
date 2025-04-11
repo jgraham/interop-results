@@ -20,5 +20,27 @@
       "taskcluster",
       "user:schenney-chromium"
     ]
+  },
+  {
+    "id": "5113678112489472",
+    "browser_name": "firefox",
+    "browser_version": "139.0a1",
+    "os_name": "linux",
+    "os_version": "22.04",
+    "revision": "075fc8a083",
+    "full_revision_hash": "075fc8a083a00c49ef4b24e86df988f665f413e5",
+    "created_at": "2025-04-10T22:01:18.684847+00:00",
+    "time_start": "2025-04-10T16:39:45.390000+00:00",
+    "results_url": "https://storage.googleapis.com/wptd/075fc8a083a00c49ef4b24e86df988f665f413e5/firefox-139.0a1-linux-22.04-a57f467874-summary_v2.json.gz",
+    "time_end": "2025-04-10T21:13:35.485000+00:00",
+    "raw_results_url": "https://storage.googleapis.com/wptd-results/075fc8a083a00c49ef4b24e86df988f665f413e5/firefox-139.0a1-linux-22.04-a57f467874/report.json",
+    "labels": [
+      "experimental",
+      "firefox",
+      "master",
+      "nightly",
+      "taskcluster",
+      "user:schenney-chromium"
+    ]
   }
 ]
