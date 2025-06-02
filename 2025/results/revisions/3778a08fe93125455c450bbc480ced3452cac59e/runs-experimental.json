@@ -20,5 +20,27 @@
       "taskcluster",
       "user:chromium-wpt-export-bot"
     ]
+  },
+  {
+    "id": "5161925937987584",
+    "browser_name": "chrome",
+    "browser_version": "139.0.7215.0",
+    "os_name": "linux",
+    "os_version": "22.04",
+    "revision": "3778a08fe9",
+    "full_revision_hash": "3778a08fe93125455c450bbc480ced3452cac59e",
+    "created_at": "2025-06-02T19:48:27.698305+00:00",
+    "time_start": "2025-06-02T13:22:57.681000+00:00",
+    "results_url": "https://storage.googleapis.com/wptd/3778a08fe93125455c450bbc480ced3452cac59e/chrome-139.0.7215.0-linux-22.04-4549c78e17-summary_v2.json.gz",
+    "time_end": "2025-06-02T17:48:43.714000+00:00",
+    "raw_results_url": "https://storage.googleapis.com/wptd-results/3778a08fe93125455c450bbc480ced3452cac59e/chrome-139.0.7215.0-linux-22.04-4549c78e17/report.json",
+    "labels": [
+      "canary",
+      "chrome",
+      "experimental",
+      "master",
+      "taskcluster",
+      "user:chromium-wpt-export-bot"
+    ]
   }
 ]
