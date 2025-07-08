@@ -20,5 +20,27 @@
       "taskcluster",
       "user:sadym-chromium"
     ]
+  },
+  {
+    "id": "6213964523634688",
+    "browser_name": "chrome",
+    "browser_version": "140.0.7281.0",
+    "os_name": "linux",
+    "os_version": "22.04",
+    "revision": "8484b7845f",
+    "full_revision_hash": "8484b7845f7dc37852af3eb4cbd684292e271064",
+    "created_at": "2025-07-08T01:25:14.362280+00:00",
+    "time_start": "2025-07-07T17:04:01.326000+00:00",
+    "results_url": "https://storage.googleapis.com/wptd/8484b7845f7dc37852af3eb4cbd684292e271064/chrome-140.0.7281.0-linux-22.04-d6541604c8-summary_v2.json.gz",
+    "time_end": "2025-07-07T21:51:11.215000+00:00",
+    "raw_results_url": "https://storage.googleapis.com/wptd-results/8484b7845f7dc37852af3eb4cbd684292e271064/chrome-140.0.7281.0-linux-22.04-d6541604c8/report.json",
+    "labels": [
+      "canary",
+      "chrome",
+      "experimental",
+      "master",
+      "taskcluster",
+      "user:sadym-chromium"
+    ]
   }
 ]
