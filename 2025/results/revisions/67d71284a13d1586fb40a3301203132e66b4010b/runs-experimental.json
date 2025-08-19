@@ -20,5 +20,27 @@
       "taskcluster",
       "user:moz-wptsync-bot"
     ]
+  },
+  {
+    "id": "5154153845489664",
+    "browser_name": "firefox",
+    "browser_version": "143.0a1",
+    "os_name": "linux",
+    "os_version": "22.04",
+    "revision": "67d71284a1",
+    "full_revision_hash": "67d71284a13d1586fb40a3301203132e66b4010b",
+    "created_at": "2025-08-18T22:30:25.485778+00:00",
+    "time_start": "2025-08-18T16:06:30.799000+00:00",
+    "results_url": "https://storage.googleapis.com/wptd/67d71284a13d1586fb40a3301203132e66b4010b/firefox-143.0a1-linux-22.04-3e5f3c6708-summary_v2.json.gz",
+    "time_end": "2025-08-18T17:07:59.736000+00:00",
+    "raw_results_url": "https://storage.googleapis.com/wptd-results/67d71284a13d1586fb40a3301203132e66b4010b/firefox-143.0a1-linux-22.04-3e5f3c6708/report.json",
+    "labels": [
+      "experimental",
+      "firefox",
+      "master",
+      "nightly",
+      "taskcluster",
+      "user:moz-wptsync-bot"
+    ]
   }
 ]

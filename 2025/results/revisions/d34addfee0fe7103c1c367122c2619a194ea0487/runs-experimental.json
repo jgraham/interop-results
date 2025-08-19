@@ -1,0 +1,67 @@
+[
+  {
+    "id": "6202091069767680",
+    "browser_name": "chrome",
+    "browser_version": "141.0.7363.0",
+    "os_name": "linux",
+    "os_version": "22.04",
+    "revision": "d34addfee0",
+    "full_revision_hash": "d34addfee0fe7103c1c367122c2619a194ea0487",
+    "created_at": "2025-08-18T22:44:47.318774+00:00",
+    "time_start": "2025-08-18T19:10:38.178000+00:00",
+    "results_url": "https://storage.googleapis.com/wptd/d34addfee0fe7103c1c367122c2619a194ea0487/chrome-141.0.7363.0-linux-22.04-2492107309-summary_v2.json.gz",
+    "time_end": "2025-08-18T21:44:32.805000+00:00",
+    "raw_results_url": "https://storage.googleapis.com/wptd-results/d34addfee0fe7103c1c367122c2619a194ea0487/chrome-141.0.7363.0-linux-22.04-2492107309/report.json",
+    "labels": [
+      "canary",
+      "chrome",
+      "experimental",
+      "master",
+      "taskcluster",
+      "user:chromium-wpt-export-bot"
+    ]
+  },
+  {
+    "id": "5172599924719616",
+    "browser_name": "firefox",
+    "browser_version": "143.0a1",
+    "os_name": "linux",
+    "os_version": "22.04",
+    "revision": "d34addfee0",
+    "full_revision_hash": "d34addfee0fe7103c1c367122c2619a194ea0487",
+    "created_at": "2025-08-18T23:04:16.871913+00:00",
+    "time_start": "2025-08-18T19:21:05.901000+00:00",
+    "results_url": "https://storage.googleapis.com/wptd/d34addfee0fe7103c1c367122c2619a194ea0487/firefox-143.0a1-linux-22.04-80c2f1dc61-summary_v2.json.gz",
+    "time_end": "2025-08-18T20:27:28.860000+00:00",
+    "raw_results_url": "https://storage.googleapis.com/wptd-results/d34addfee0fe7103c1c367122c2619a194ea0487/firefox-143.0a1-linux-22.04-80c2f1dc61/report.json",
+    "labels": [
+      "experimental",
+      "firefox",
+      "master",
+      "nightly",
+      "taskcluster",
+      "user:chromium-wpt-export-bot"
+    ]
+  },
+  {
+    "id": "5120170487185408",
+    "browser_name": "safari",
+    "browser_version": "225 preview",
+    "os_name": "mac",
+    "os_version": "15.6",
+    "revision": "d34addfee0",
+    "full_revision_hash": "d34addfee0fe7103c1c367122c2619a194ea0487",
+    "created_at": "2025-08-18T21:37:15.876818+00:00",
+    "time_start": "2025-08-18T18:47:16.140000+00:00",
+    "results_url": "https://storage.googleapis.com/wptd/d34addfee0fe7103c1c367122c2619a194ea0487/safari-225_preview-mac-15.6-edf27b4cc6-summary_v2.json.gz",
+    "time_end": "2025-08-18T20:44:26.494000+00:00",
+    "raw_results_url": "https://storage.googleapis.com/wptd-results/d34addfee0fe7103c1c367122c2619a194ea0487/safari-225_preview-mac-15.6-edf27b4cc6/report.json",
+    "labels": [
+      "experimental",
+      "github-actions",
+      "master",
+      "preview",
+      "safari"
+    ]
+  }
+]
