@@ -20,5 +20,27 @@
       "taskcluster",
       "user:schenney-chromium"
     ]
+  },
+  {
+    "id": "4839597017399296",
+    "browser_name": "chrome",
+    "browser_version": "141.0.7367.0",
+    "os_name": "linux",
+    "os_version": "22.04",
+    "revision": "14c7ae5dd9",
+    "full_revision_hash": "14c7ae5dd9a2c7f726ed51f968dc2340cb4fbe74",
+    "created_at": "2025-08-20T20:03:40.895250+00:00",
+    "time_start": "2025-08-20T14:29:06.192000+00:00",
+    "results_url": "https://storage.googleapis.com/wptd/14c7ae5dd9a2c7f726ed51f968dc2340cb4fbe74/chrome-141.0.7367.0-linux-22.04-d4442db182-summary_v2.json.gz",
+    "time_end": "2025-08-20T19:02:20.260000+00:00",
+    "raw_results_url": "https://storage.googleapis.com/wptd-results/14c7ae5dd9a2c7f726ed51f968dc2340cb4fbe74/chrome-141.0.7367.0-linux-22.04-d4442db182/report.json",
+    "labels": [
+      "canary",
+      "chrome",
+      "experimental",
+      "master",
+      "taskcluster",
+      "user:schenney-chromium"
+    ]
   }
 ]
