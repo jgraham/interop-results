@@ -20,5 +20,27 @@
       "taskcluster",
       "user:servo-wpt-sync"
     ]
+  },
+  {
+    "id": "5079299167354880",
+    "browser_name": "chrome",
+    "browser_version": "142.0.7429.0",
+    "os_name": "linux",
+    "os_version": "22.04",
+    "revision": "a9397216e0",
+    "full_revision_hash": "a9397216e06f48c03a55db5f32af46602975017c",
+    "created_at": "2025-09-23T17:09:35.446090+00:00",
+    "time_start": "2025-09-23T08:26:16.992000+00:00",
+    "results_url": "https://storage.googleapis.com/wptd/a9397216e06f48c03a55db5f32af46602975017c/chrome-142.0.7429.0-linux-22.04-d063f59da2-summary_v2.json.gz",
+    "time_end": "2025-09-23T11:01:53.691000+00:00",
+    "raw_results_url": "https://storage.googleapis.com/wptd-results/a9397216e06f48c03a55db5f32af46602975017c/chrome-142.0.7429.0-linux-22.04-d063f59da2/report.json",
+    "labels": [
+      "canary",
+      "chrome",
+      "experimental",
+      "master",
+      "taskcluster",
+      "user:servo-wpt-sync"
+    ]
   }
 ]
