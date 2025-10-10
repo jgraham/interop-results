@@ -42,5 +42,26 @@
       "taskcluster",
       "user:gsnedders"
     ]
+  },
+  {
+    "id": "6481027561422848",
+    "browser_name": "safari",
+    "browser_version": "229 preview",
+    "os_name": "mac",
+    "os_version": "26.0",
+    "revision": "b0a8f55692",
+    "full_revision_hash": "b0a8f556927432a45f49ed34684d670975d9cbda",
+    "created_at": "2025-10-10T11:15:29.037594+00:00",
+    "time_start": "2025-10-10T05:13:52.225000+00:00",
+    "results_url": "https://storage.googleapis.com/wptd/b0a8f556927432a45f49ed34684d670975d9cbda/safari-229_preview-mac-26.0-cbc55c9b91-summary_v2.json.gz",
+    "time_end": "2025-10-10T07:15:03.222000+00:00",
+    "raw_results_url": "https://storage.googleapis.com/wptd-results/b0a8f556927432a45f49ed34684d670975d9cbda/safari-229_preview-mac-26.0-cbc55c9b91/report.json",
+    "labels": [
+      "experimental",
+      "github-actions",
+      "master",
+      "preview",
+      "safari"
+    ]
   }
 ]
