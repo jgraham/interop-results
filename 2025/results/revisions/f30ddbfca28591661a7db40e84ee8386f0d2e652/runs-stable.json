@@ -18,5 +18,47 @@
       "safari",
       "stable"
     ]
+  },
+  {
+    "id": "5171990752395264",
+    "browser_name": "chrome",
+    "browser_version": "142.0.7444.175",
+    "os_name": "linux",
+    "os_version": "22.04",
+    "revision": "f30ddbfca2",
+    "full_revision_hash": "f30ddbfca28591661a7db40e84ee8386f0d2e652",
+    "created_at": "2025-11-19T12:10:32.800787+00:00",
+    "time_start": "2025-11-19T02:13:42.905000+00:00",
+    "results_url": "https://storage.googleapis.com/wptd/f30ddbfca28591661a7db40e84ee8386f0d2e652/chrome-142.0.7444.175-linux-22.04-231fd7c1b7-summary_v2.json.gz",
+    "time_end": "2025-11-19T05:06:41.402000+00:00",
+    "raw_results_url": "https://storage.googleapis.com/wptd-results/f30ddbfca28591661a7db40e84ee8386f0d2e652/chrome-142.0.7444.175-linux-22.04-231fd7c1b7/report.json",
+    "labels": [
+      "chrome",
+      "master",
+      "stable",
+      "taskcluster",
+      "user:stwrt"
+    ]
+  },
+  {
+    "id": "5181257089810432",
+    "browser_name": "firefox",
+    "browser_version": "145.0.1",
+    "os_name": "linux",
+    "os_version": "22.04",
+    "revision": "f30ddbfca2",
+    "full_revision_hash": "f30ddbfca28591661a7db40e84ee8386f0d2e652",
+    "created_at": "2025-11-19T12:43:01.076269+00:00",
+    "time_start": "2025-11-19T03:39:48.554000+00:00",
+    "results_url": "https://storage.googleapis.com/wptd/f30ddbfca28591661a7db40e84ee8386f0d2e652/firefox-145.0.1-linux-22.04-0090acf34e-summary_v2.json.gz",
+    "time_end": "2025-11-19T04:51:03.543000+00:00",
+    "raw_results_url": "https://storage.googleapis.com/wptd-results/f30ddbfca28591661a7db40e84ee8386f0d2e652/firefox-145.0.1-linux-22.04-0090acf34e/report.json",
+    "labels": [
+      "firefox",
+      "master",
+      "stable",
+      "taskcluster",
+      "user:stwrt"
+    ]
   }
 ]
