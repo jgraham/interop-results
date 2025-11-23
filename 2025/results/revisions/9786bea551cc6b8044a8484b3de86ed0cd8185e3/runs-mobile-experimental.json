@@ -83,5 +83,47 @@
       "taskcluster",
       "user:moz-wptsync-bot"
     ]
+  },
+  {
+    "id": "5160300165988352",
+    "browser_name": "chrome_android",
+    "browser_version": "144.0.7542.0",
+    "os_name": "android",
+    "os_version": "15",
+    "revision": "9786bea551",
+    "full_revision_hash": "9786bea551cc6b8044a8484b3de86ed0cd8185e3",
+    "created_at": "2025-11-23T15:38:39.368369+00:00",
+    "time_start": "2025-11-23T10:32:25.492000+00:00",
+    "results_url": "https://storage.googleapis.com/wptd/9786bea551cc6b8044a8484b3de86ed0cd8185e3/chrome_android-144.0.7542.0-android-15-e1caae8cf7-summary_v2.json.gz",
+    "time_end": "2025-11-23T12:44:34.804000+00:00",
+    "raw_results_url": "https://storage.googleapis.com/wptd-results/9786bea551cc6b8044a8484b3de86ed0cd8185e3/chrome_android-144.0.7542.0-android-15-e1caae8cf7/report.json",
+    "labels": [
+      "chrome_android",
+      "chromium-ci-results-uploader",
+      "dev",
+      "experimental",
+      "master"
+    ]
+  },
+  {
+    "id": "5161332837187584",
+    "browser_name": "chrome_android",
+    "browser_version": "144.0.7542.0",
+    "os_name": "android",
+    "os_version": "15",
+    "revision": "9786bea551",
+    "full_revision_hash": "9786bea551cc6b8044a8484b3de86ed0cd8185e3",
+    "created_at": "2025-11-23T13:25:05.466090+00:00",
+    "time_start": "2025-11-23T08:10:23.026000+00:00",
+    "results_url": "https://storage.googleapis.com/wptd/9786bea551cc6b8044a8484b3de86ed0cd8185e3/chrome_android-144.0.7542.0-android-15-99fc75bb45-summary_v2.json.gz",
+    "time_end": "2025-11-23T10:22:52.861000+00:00",
+    "raw_results_url": "https://storage.googleapis.com/wptd-results/9786bea551cc6b8044a8484b3de86ed0cd8185e3/chrome_android-144.0.7542.0-android-15-99fc75bb45/report.json",
+    "labels": [
+      "chrome_android",
+      "chromium-ci-results-uploader",
+      "dev",
+      "experimental",
+      "master"
+    ]
   }
 ]
