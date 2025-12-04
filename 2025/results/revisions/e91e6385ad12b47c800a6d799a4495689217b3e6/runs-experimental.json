@@ -42,5 +42,26 @@
       "taskcluster",
       "user:schenney-chromium"
     ]
+  },
+  {
+    "id": "5089199247327232",
+    "browser_name": "safari",
+    "browser_version": "232 preview",
+    "os_name": "mac",
+    "os_version": "26.1",
+    "revision": "e91e6385ad",
+    "full_revision_hash": "e91e6385ad12b47c800a6d799a4495689217b3e6",
+    "created_at": "2025-12-04T19:18:31.152512+00:00",
+    "time_start": "2025-12-04T15:37:46.984000+00:00",
+    "results_url": "https://storage.googleapis.com/wptd/e91e6385ad12b47c800a6d799a4495689217b3e6/safari-232_preview-mac-26.1-fd7e51af4f-summary_v2.json.gz",
+    "time_end": "2025-12-04T18:26:09.356000+00:00",
+    "raw_results_url": "https://storage.googleapis.com/wptd-results/e91e6385ad12b47c800a6d799a4495689217b3e6/safari-232_preview-mac-26.1-fd7e51af4f/report.json",
+    "labels": [
+      "experimental",
+      "github-actions",
+      "master",
+      "preview",
+      "safari"
+    ]
   }
 ]
