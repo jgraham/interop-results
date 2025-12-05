@@ -20,5 +20,27 @@
       "taskcluster",
       "user:chromium-wpt-export-bot"
     ]
+  },
+  {
+    "id": "6229538834219008",
+    "browser_name": "firefox",
+    "browser_version": "147.0a1",
+    "os_name": "linux",
+    "os_version": "22.04",
+    "revision": "87a6d9877d",
+    "full_revision_hash": "87a6d9877d6eb08755c742cd7df6a528cebb64ff",
+    "created_at": "2025-12-05T15:56:27.618730+00:00",
+    "time_start": "2025-12-05T09:33:23.053000+00:00",
+    "results_url": "https://storage.googleapis.com/wptd/87a6d9877d6eb08755c742cd7df6a528cebb64ff/firefox-147.0a1-linux-22.04-6cc879f4cc-summary_v2.json.gz",
+    "time_end": "2025-12-05T10:47:50.419000+00:00",
+    "raw_results_url": "https://storage.googleapis.com/wptd-results/87a6d9877d6eb08755c742cd7df6a528cebb64ff/firefox-147.0a1-linux-22.04-6cc879f4cc/report.json",
+    "labels": [
+      "experimental",
+      "firefox",
+      "master",
+      "nightly",
+      "taskcluster",
+      "user:chromium-wpt-export-bot"
+    ]
   }
 ]
