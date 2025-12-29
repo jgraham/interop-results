@@ -124,5 +124,27 @@
       "experimental",
       "master"
     ]
+  },
+  {
+    "id": "5149654703669248",
+    "browser_name": "firefox_android",
+    "browser_version": "148.0a1-nightly",
+    "os_name": "android",
+    "os_version": "14",
+    "revision": "cfb1499179",
+    "full_revision_hash": "cfb14991790b45b4162d98dc1fed4a43349afcd0",
+    "created_at": "2025-12-29T08:05:06.394344+00:00",
+    "time_start": "2025-12-29T02:51:15.066000+00:00",
+    "results_url": "https://storage.googleapis.com/wptd/cfb14991790b45b4162d98dc1fed4a43349afcd0/firefox_android-148.0a1-nightly-android-14-3577a770e7-summary_v2.json.gz",
+    "time_end": "2025-12-29T04:48:48.347000+00:00",
+    "raw_results_url": "https://storage.googleapis.com/wptd-results/cfb14991790b45b4162d98dc1fed4a43349afcd0/firefox_android-148.0a1-nightly-android-14-3577a770e7/report.json",
+    "labels": [
+      "experimental",
+      "firefox_android",
+      "master",
+      "nightly",
+      "taskcluster",
+      "user:servo-wpt-sync"
+    ]
   }
 ]
