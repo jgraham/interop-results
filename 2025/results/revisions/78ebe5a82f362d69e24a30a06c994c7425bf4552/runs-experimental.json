@@ -20,5 +20,26 @@
       "taskcluster",
       "user:servo-wpt-sync"
     ]
+  },
+  {
+    "id": "5086321115922432",
+    "browser_name": "safari",
+    "browser_version": "234 preview",
+    "os_name": "mac",
+    "os_version": "26.2",
+    "revision": "78ebe5a82f",
+    "full_revision_hash": "78ebe5a82f362d69e24a30a06c994c7425bf4552",
+    "created_at": "2025-12-31T16:29:00.833004+00:00",
+    "time_start": "2025-12-31T13:04:26.702000+00:00",
+    "results_url": "https://storage.googleapis.com/wptd/78ebe5a82f362d69e24a30a06c994c7425bf4552/safari-234_preview-mac-26.2-17f2ce0834-summary_v2.json.gz",
+    "time_end": "2025-12-31T15:38:16.486000+00:00",
+    "raw_results_url": "https://storage.googleapis.com/wptd-results/78ebe5a82f362d69e24a30a06c994c7425bf4552/safari-234_preview-mac-26.2-17f2ce0834/report.json",
+    "labels": [
+      "experimental",
+      "github-actions",
+      "master",
+      "preview",
+      "safari"
+    ]
   }
 ]
