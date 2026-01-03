@@ -62,5 +62,26 @@
       "taskcluster",
       "user:chromium-wpt-export-bot"
     ]
+  },
+  {
+    "id": "5179585726775296",
+    "browser_name": "chrome_android",
+    "browser_version": "145.0.7615.0",
+    "os_name": "android",
+    "os_version": "15",
+    "revision": "a42db9e467",
+    "full_revision_hash": "a42db9e46752075ec312a19e2593d91d2ec9a79c",
+    "created_at": "2026-01-03T10:22:55.343638+00:00",
+    "time_start": "2026-01-03T06:36:22.173000+00:00",
+    "results_url": "https://storage.googleapis.com/wptd/a42db9e46752075ec312a19e2593d91d2ec9a79c/chrome_android-145.0.7615.0-android-15-348859787c-summary_v2.json.gz",
+    "time_end": "2026-01-03T08:46:06.302000+00:00",
+    "raw_results_url": "https://storage.googleapis.com/wptd-results/a42db9e46752075ec312a19e2593d91d2ec9a79c/chrome_android-145.0.7615.0-android-15-348859787c/report.json",
+    "labels": [
+      "chrome_android",
+      "chromium-ci-results-uploader",
+      "dev",
+      "experimental",
+      "master"
+    ]
   }
 ]
