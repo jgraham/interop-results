@@ -1,0 +1,64 @@
+[
+  {
+    "id": "6316390597525504",
+    "browser_name": "chrome",
+    "browser_version": "145.0.7632.77",
+    "os_name": "linux",
+    "os_version": "22.04",
+    "revision": "c054c02f82",
+    "full_revision_hash": "c054c02f82283f3adca83f5397e9cb0929f49b2a",
+    "created_at": "2026-02-22T06:43:35.798664+00:00",
+    "time_start": "2026-02-22T03:21:30.402000+00:00",
+    "results_url": "https://storage.googleapis.com/wptd/c054c02f82283f3adca83f5397e9cb0929f49b2a/chrome-145.0.7632.77-linux-22.04-7907f09160-summary_v2.json.gz",
+    "time_end": "2026-02-22T05:01:05.420000+00:00",
+    "raw_results_url": "https://storage.googleapis.com/wptd-results/c054c02f82283f3adca83f5397e9cb0929f49b2a/chrome-145.0.7632.77-linux-22.04-7907f09160/report.json",
+    "labels": [
+      "chrome",
+      "master",
+      "stable",
+      "taskcluster",
+      "user:chromium-wpt-export-bot"
+    ]
+  },
+  {
+    "id": "5132645198725120",
+    "browser_name": "firefox",
+    "browser_version": "147.0.4",
+    "os_name": "linux",
+    "os_version": "22.04",
+    "revision": "c054c02f82",
+    "full_revision_hash": "c054c02f82283f3adca83f5397e9cb0929f49b2a",
+    "created_at": "2026-02-22T07:14:01.245587+00:00",
+    "time_start": "2026-02-22T04:31:00.022000+00:00",
+    "results_url": "https://storage.googleapis.com/wptd/c054c02f82283f3adca83f5397e9cb0929f49b2a/firefox-147.0.4-linux-22.04-38d314c91c-summary_v2.json.gz",
+    "time_end": "2026-02-22T05:43:16.822000+00:00",
+    "raw_results_url": "https://storage.googleapis.com/wptd-results/c054c02f82283f3adca83f5397e9cb0929f49b2a/firefox-147.0.4-linux-22.04-38d314c91c/report.json",
+    "labels": [
+      "firefox",
+      "master",
+      "stable",
+      "taskcluster",
+      "user:chromium-wpt-export-bot"
+    ]
+  },
+  {
+    "id": "5070170336002048",
+    "browser_name": "safari",
+    "browser_version": "26.3 (21623.2.7.11.6)",
+    "os_name": "mac",
+    "os_version": "26.3",
+    "revision": "c054c02f82",
+    "full_revision_hash": "c054c02f82283f3adca83f5397e9cb0929f49b2a",
+    "created_at": "2026-02-22T08:08:07.207617+00:00",
+    "time_start": "2026-02-22T05:01:55.287000+00:00",
+    "results_url": "https://storage.googleapis.com/wptd/c054c02f82283f3adca83f5397e9cb0929f49b2a/safari-26.3__21623.2.7.11.6_-mac-26.3-bd26bce48f-summary_v2.json.gz",
+    "time_end": "2026-02-22T07:42:06.792000+00:00",
+    "raw_results_url": "https://storage.googleapis.com/wptd-results/c054c02f82283f3adca83f5397e9cb0929f49b2a/safari-26.3__21623.2.7.11.6_-mac-26.3-bd26bce48f/report.json",
+    "labels": [
+      "github-actions",
+      "master",
+      "safari",
+      "stable"
+    ]
+  }
+]
