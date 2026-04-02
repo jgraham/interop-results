@@ -42,5 +42,26 @@
       "taskcluster",
       "user:moz-wptsync-bot"
     ]
+  },
+  {
+    "id": "4861867381227520",
+    "browser_name": "safari",
+    "browser_version": "240 preview",
+    "os_name": "mac",
+    "os_version": "26.4",
+    "revision": "4148e7467d",
+    "full_revision_hash": "4148e7467d7b828804ab739f64655a5ee0ad88a8",
+    "created_at": "2026-04-01T22:20:29.062767+00:00",
+    "time_start": "2026-04-01T19:20:56.269000+00:00",
+    "results_url": "https://storage.googleapis.com/wptd/4148e7467d7b828804ab739f64655a5ee0ad88a8/safari-240_preview-mac-26.4-9a0c22ae67-summary_v2.json.gz",
+    "time_end": "2026-04-01T21:55:20.415000+00:00",
+    "raw_results_url": "https://storage.googleapis.com/wptd-results/4148e7467d7b828804ab739f64655a5ee0ad88a8/safari-240_preview-mac-26.4-9a0c22ae67/report.json",
+    "labels": [
+      "experimental",
+      "github-actions",
+      "master",
+      "preview",
+      "safari"
+    ]
   }
 ]
