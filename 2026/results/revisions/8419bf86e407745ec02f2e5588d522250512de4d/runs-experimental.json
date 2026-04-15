@@ -1,0 +1,67 @@
+[
+  {
+    "id": "4810664794390528",
+    "browser_name": "safari",
+    "browser_version": "241 preview",
+    "os_name": "mac",
+    "os_version": "26.4",
+    "revision": "8419bf86e4",
+    "full_revision_hash": "8419bf86e407745ec02f2e5588d522250512de4d",
+    "created_at": "2026-04-15T01:31:02.366471+00:00",
+    "time_start": "2026-04-14T22:04:10.893000+00:00",
+    "results_url": "https://storage.googleapis.com/wptd/8419bf86e407745ec02f2e5588d522250512de4d/safari-241_preview-mac-26.4-f74281b165-summary_v2.json.gz",
+    "time_end": "2026-04-15T01:04:04.495000+00:00",
+    "raw_results_url": "https://storage.googleapis.com/wptd-results/8419bf86e407745ec02f2e5588d522250512de4d/safari-241_preview-mac-26.4-f74281b165/report.json",
+    "labels": [
+      "experimental",
+      "github-actions",
+      "master",
+      "preview",
+      "safari"
+    ]
+  },
+  {
+    "id": "5105432074125312",
+    "browser_name": "chrome",
+    "browser_version": "149.0.7792.0",
+    "os_name": "linux",
+    "os_version": "22.04",
+    "revision": "8419bf86e4",
+    "full_revision_hash": "8419bf86e407745ec02f2e5588d522250512de4d",
+    "created_at": "2026-04-15T03:10:00.010167+00:00",
+    "time_start": "2026-04-15T01:02:18.907000+00:00",
+    "results_url": "https://storage.googleapis.com/wptd/8419bf86e407745ec02f2e5588d522250512de4d/chrome-149.0.7792.0-linux-22.04-3dc443b056-summary_v2.json.gz",
+    "time_end": "2026-04-15T02:45:30.706000+00:00",
+    "raw_results_url": "https://storage.googleapis.com/wptd-results/8419bf86e407745ec02f2e5588d522250512de4d/chrome-149.0.7792.0-linux-22.04-3dc443b056/report.json",
+    "labels": [
+      "canary",
+      "chrome",
+      "experimental",
+      "master",
+      "taskcluster",
+      "user:chromium-wpt-export-bot"
+    ]
+  },
+  {
+    "id": "5118316372033536",
+    "browser_name": "firefox",
+    "browser_version": "151.0a1",
+    "os_name": "linux",
+    "os_version": "22.04",
+    "revision": "8419bf86e4",
+    "full_revision_hash": "8419bf86e407745ec02f2e5588d522250512de4d",
+    "created_at": "2026-04-15T03:10:22.716311+00:00",
+    "time_start": "2026-04-15T01:36:51.511000+00:00",
+    "results_url": "https://storage.googleapis.com/wptd/8419bf86e407745ec02f2e5588d522250512de4d/firefox-151.0a1-linux-22.04-42220ae72a-summary_v2.json.gz",
+    "time_end": "2026-04-15T02:43:34.430000+00:00",
+    "raw_results_url": "https://storage.googleapis.com/wptd-results/8419bf86e407745ec02f2e5588d522250512de4d/firefox-151.0a1-linux-22.04-42220ae72a/report.json",
+    "labels": [
+      "experimental",
+      "firefox",
+      "master",
+      "nightly",
+      "taskcluster",
+      "user:chromium-wpt-export-bot"
+    ]
+  }
+]
