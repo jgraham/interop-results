@@ -1,0 +1,67 @@
+[
+  {
+    "id": "6198075310997504",
+    "browser_name": "chrome",
+    "browser_version": "149.0.7820.0",
+    "os_name": "linux",
+    "os_version": "22.04",
+    "revision": "ad1dda761c",
+    "full_revision_hash": "ad1dda761c5126248624e8aadb8259c3056be564",
+    "created_at": "2026-05-02T03:06:32.673849+00:00",
+    "time_start": "2026-05-01T22:59:23.802000+00:00",
+    "results_url": "https://storage.googleapis.com/wptd/ad1dda761c5126248624e8aadb8259c3056be564/chrome-149.0.7820.0-linux-22.04-2ca1d5767f-summary_v2.json.gz",
+    "time_end": "2026-05-02T02:26:38.404000+00:00",
+    "raw_results_url": "https://storage.googleapis.com/wptd-results/ad1dda761c5126248624e8aadb8259c3056be564/chrome-149.0.7820.0-linux-22.04-2ca1d5767f/report.json",
+    "labels": [
+      "canary",
+      "chrome",
+      "experimental",
+      "master",
+      "taskcluster",
+      "user:moz-wptsync-bot"
+    ]
+  },
+  {
+    "id": "5141100368232448",
+    "browser_name": "safari",
+    "browser_version": "242 preview",
+    "os_name": "mac",
+    "os_version": "26.4",
+    "revision": "ad1dda761c",
+    "full_revision_hash": "ad1dda761c5126248624e8aadb8259c3056be564",
+    "created_at": "2026-05-02T01:09:37.593434+00:00",
+    "time_start": "2026-05-01T22:04:01.401000+00:00",
+    "results_url": "https://storage.googleapis.com/wptd/ad1dda761c5126248624e8aadb8259c3056be564/safari-242_preview-mac-26.4-87a252db8b-summary_v2.json.gz",
+    "time_end": "2026-05-02T00:27:49.742000+00:00",
+    "raw_results_url": "https://storage.googleapis.com/wptd-results/ad1dda761c5126248624e8aadb8259c3056be564/safari-242_preview-mac-26.4-87a252db8b/report.json",
+    "labels": [
+      "experimental",
+      "github-actions",
+      "master",
+      "preview",
+      "safari"
+    ]
+  },
+  {
+    "id": "5606064669327360",
+    "browser_name": "firefox",
+    "browser_version": "152.0a1",
+    "os_name": "linux",
+    "os_version": "22.04",
+    "revision": "ad1dda761c",
+    "full_revision_hash": "ad1dda761c5126248624e8aadb8259c3056be564",
+    "created_at": "2026-05-02T03:09:05.784323+00:00",
+    "time_start": "2026-05-02T01:08:12.105000+00:00",
+    "results_url": "https://storage.googleapis.com/wptd/ad1dda761c5126248624e8aadb8259c3056be564/firefox-152.0a1-linux-22.04-82e68d05b6-summary_v2.json.gz",
+    "time_end": "2026-05-02T02:20:24.301000+00:00",
+    "raw_results_url": "https://storage.googleapis.com/wptd-results/ad1dda761c5126248624e8aadb8259c3056be564/firefox-152.0a1-linux-22.04-82e68d05b6/report.json",
+    "labels": [
+      "experimental",
+      "firefox",
+      "master",
+      "nightly",
+      "taskcluster",
+      "user:moz-wptsync-bot"
+    ]
+  }
+]
