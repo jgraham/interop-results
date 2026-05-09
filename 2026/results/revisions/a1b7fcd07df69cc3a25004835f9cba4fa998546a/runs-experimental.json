@@ -42,5 +42,26 @@
       "taskcluster",
       "user:chromium-wpt-export-bot"
     ]
+  },
+  {
+    "id": "5074484251066368",
+    "browser_name": "safari",
+    "browser_version": "243 preview",
+    "os_name": "mac",
+    "os_version": "26.4",
+    "revision": "a1b7fcd07d",
+    "full_revision_hash": "a1b7fcd07df69cc3a25004835f9cba4fa998546a",
+    "created_at": "2026-05-08T22:55:42.708637+00:00",
+    "time_start": "2026-05-08T19:45:18.370000+00:00",
+    "results_url": "https://storage.googleapis.com/wptd/a1b7fcd07df69cc3a25004835f9cba4fa998546a/safari-243_preview-mac-26.4-3e5860b910-summary_v2.json.gz",
+    "time_end": "2026-05-08T22:14:59.283000+00:00",
+    "raw_results_url": "https://storage.googleapis.com/wptd-results/a1b7fcd07df69cc3a25004835f9cba4fa998546a/safari-243_preview-mac-26.4-3e5860b910/report.json",
+    "labels": [
+      "experimental",
+      "github-actions",
+      "master",
+      "preview",
+      "safari"
+    ]
   }
 ]
