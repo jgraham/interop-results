@@ -1,0 +1,67 @@
+[
+  {
+    "id": "6302321775738880",
+    "browser_name": "chrome",
+    "browser_version": "151.0.7874.0",
+    "os_name": "linux",
+    "os_version": "22.04",
+    "revision": "86f7d9f9f3",
+    "full_revision_hash": "86f7d9f9f3656576f8c32aed865efda91e531eae",
+    "created_at": "2026-06-05T01:32:09.204306+00:00",
+    "time_start": "2026-06-04T23:14:55.811000+00:00",
+    "results_url": "https://storage.googleapis.com/wptd/86f7d9f9f3656576f8c32aed865efda91e531eae/chrome-151.0.7874.0-linux-22.04-0b67d9d951-summary_v2.json.gz",
+    "time_end": "2026-06-05T01:11:18.624000+00:00",
+    "raw_results_url": "https://storage.googleapis.com/wptd-results/86f7d9f9f3656576f8c32aed865efda91e531eae/chrome-151.0.7874.0-linux-22.04-0b67d9d951/report.json",
+    "labels": [
+      "canary",
+      "chrome",
+      "experimental",
+      "master",
+      "taskcluster",
+      "user:noamr"
+    ]
+  },
+  {
+    "id": "5187022787706880",
+    "browser_name": "safari",
+    "browser_version": "244 preview",
+    "os_name": "mac",
+    "os_version": "26.5",
+    "revision": "86f7d9f9f3",
+    "full_revision_hash": "86f7d9f9f3656576f8c32aed865efda91e531eae",
+    "created_at": "2026-06-05T01:40:49.931319+00:00",
+    "time_start": "2026-06-04T22:44:47.168000+00:00",
+    "results_url": "https://storage.googleapis.com/wptd/86f7d9f9f3656576f8c32aed865efda91e531eae/safari-244_preview-mac-26.5-03095f2302-summary_v2.json.gz",
+    "time_end": "2026-06-05T01:18:31.892000+00:00",
+    "raw_results_url": "https://storage.googleapis.com/wptd-results/86f7d9f9f3656576f8c32aed865efda91e531eae/safari-244_preview-mac-26.5-03095f2302/report.json",
+    "labels": [
+      "experimental",
+      "github-actions",
+      "master",
+      "preview",
+      "safari"
+    ]
+  },
+  {
+    "id": "5968622748172288",
+    "browser_name": "firefox",
+    "browser_version": "153.0a1",
+    "os_name": "linux",
+    "os_version": "22.04",
+    "revision": "86f7d9f9f3",
+    "full_revision_hash": "86f7d9f9f3656576f8c32aed865efda91e531eae",
+    "created_at": "2026-06-05T01:33:58.493088+00:00",
+    "time_start": "2026-06-05T00:07:08.313000+00:00",
+    "results_url": "https://storage.googleapis.com/wptd/86f7d9f9f3656576f8c32aed865efda91e531eae/firefox-153.0a1-linux-22.04-b79adb6d5f-summary_v2.json.gz",
+    "time_end": "2026-06-05T01:09:48.928000+00:00",
+    "raw_results_url": "https://storage.googleapis.com/wptd-results/86f7d9f9f3656576f8c32aed865efda91e531eae/firefox-153.0a1-linux-22.04-b79adb6d5f/report.json",
+    "labels": [
+      "experimental",
+      "firefox",
+      "master",
+      "nightly",
+      "taskcluster",
+      "user:noamr"
+    ]
+  }
+]
