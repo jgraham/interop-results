@@ -1,0 +1,46 @@
+[
+  {
+    "id": "5073243605303296",
+    "browser_name": "chrome",
+    "browser_version": "156.0.8075.0",
+    "os_name": "linux",
+    "os_version": "22.04",
+    "revision": "856693a206",
+    "full_revision_hash": "856693a2063c88c51cdc1f3c48c9f53d86fc5151",
+    "created_at": "2026-09-27T12:24:46.560822+00:00",
+    "time_start": "2026-09-27T09:28:13.858000+00:00",
+    "results_url": "https://storage.googleapis.com/wptd/856693a2063c88c51cdc1f3c48c9f53d86fc5151/chrome-156.0.8075.0-linux-22.04-c022471e33-summary_v2.json.gz",
+    "time_end": "2026-09-27T12:00:48.780000+00:00",
+    "raw_results_url": "https://storage.googleapis.com/wptd-results/856693a2063c88c51cdc1f3c48c9f53d86fc5151/chrome-156.0.8075.0-linux-22.04-c022471e33/report.json",
+    "labels": [
+      "canary",
+      "chrome",
+      "experimental",
+      "master",
+      "taskcluster",
+      "user:servo-wpt-sync"
+    ]
+  },
+  {
+    "id": "5141932245516288",
+    "browser_name": "firefox",
+    "browser_version": "159.0a1",
+    "os_name": "linux",
+    "os_version": "22.04",
+    "revision": "856693a206",
+    "full_revision_hash": "856693a2063c88c51cdc1f3c48c9f53d86fc5151",
+    "created_at": "2026-09-27T12:28:09.749758+00:00",
+    "time_start": "2026-09-27T09:33:15.440000+00:00",
+    "results_url": "https://storage.googleapis.com/wptd/856693a2063c88c51cdc1f3c48c9f53d86fc5151/firefox-159.0a1-linux-22.04-4a5a48cd0e-summary_v2.json.gz",
+    "time_end": "2026-09-27T10:56:09.816000+00:00",
+    "raw_results_url": "https://storage.googleapis.com/wptd-results/856693a2063c88c51cdc1f3c48c9f53d86fc5151/firefox-159.0a1-linux-22.04-4a5a48cd0e/report.json",
+    "labels": [
+      "experimental",
+      "firefox",
+      "master",
+      "nightly",
+      "taskcluster",
+      "user:servo-wpt-sync"
+    ]
+  }
+]
